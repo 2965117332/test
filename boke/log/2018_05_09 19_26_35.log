@@ -1,0 +1,44 @@
+[2018-05-09 19:26:47] [INFO] 启动谷歌驱动
+[2018-05-09 19:26:51] [INFO] 打开网址http://127.0.0.1/upload
+[2018-05-09 19:26:52] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-09 19:26:52] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-09 19:26:52] [INFO] 找到元素 id: ls_username
+[2018-05-09 19:26:52] [INFO] 成功清空
+[2018-05-09 19:26:52] [INFO] 找到元素 id: ls_username
+[2018-05-09 19:26:52] [INFO] 输入成功
+[2018-05-09 19:26:52] [INFO] 开始查找元素：By.id: ls_password
+[2018-05-09 19:26:52] [INFO] 找到了元素 [By.id: ls_password]
+[2018-05-09 19:26:52] [INFO] 找到元素 id: ls_password
+[2018-05-09 19:26:52] [INFO] 成功清空
+[2018-05-09 19:26:52] [INFO] 找到元素 id: ls_password
+[2018-05-09 19:26:52] [INFO] 输入成功
+[2018-05-09 19:26:52] [INFO] 开始查找元素：By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 19:26:52] [INFO] 找到了元素 [By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 19:26:52] [INFO] 找到元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-09 19:26:52] [INFO] 点击成功
+[2018-05-09 19:26:56] [INFO] 开始查找元素：By.xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a
+[2018-05-09 19:26:58] [INFO] 找到了元素 [By.xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a]
+[2018-05-09 19:26:58] [INFO] 找到元素 xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a
+[2018-05-09 19:27:00] [INFO] 点击成功
+[2018-05-09 19:27:00] [INFO] 开始查找元素：By.xpath: //*[@id="normalthread_25"]/tr/th/a[2]
+[2018-05-09 19:27:00] [INFO] 找到了元素 [By.xpath: //*[@id="normalthread_25"]/tr/th/a[2]]
+[2018-05-09 19:27:00] [INFO] 找到元素 xpath: //*[@id="normalthread_25"]/tr/th/a[2]
+[2018-05-09 19:27:02] [INFO] 点击成功
+[2018-05-09 19:27:02] [INFO] 开始查找元素：By.xpath: //*[@id="post_reply"]/img
+[2018-05-09 19:27:02] [INFO] 找到了元素 [By.xpath: //*[@id="post_reply"]/img]
+[2018-05-09 19:27:02] [INFO] 找到元素 xpath: //*[@id="post_reply"]/img
+[2018-05-09 19:27:02] [INFO] 点击成功
+[2018-05-09 19:27:02] [INFO] 开始查找元素：By.id: postmessage
+[2018-05-09 19:27:03] [INFO] 找到了元素 [By.id: postmessage]
+[2018-05-09 19:27:04] [INFO] 找到元素 id: postmessage
+[2018-05-09 19:27:04] [INFO] 成功清空
+[2018-05-09 19:27:04] [INFO] 找到元素 id: postmessage
+[2018-05-09 19:27:04] [INFO] 输入成功
+[2018-05-09 19:27:04] [INFO] 开始查找元素：By.xpath: //*[@id="postsubmit"]/span
+[2018-05-09 19:27:04] [INFO] 找到了元素 [By.xpath: //*[@id="postsubmit"]/span]
+[2018-05-09 19:27:04] [INFO] 找到元素 xpath: //*[@id="postsubmit"]/span
+[2018-05-09 19:27:04] [INFO] 点击成功
+[2018-05-09 19:27:04] [INFO] 开始查找元素：By.xpath: //*[@id="um"]/p[1]/a[5]
+[2018-05-09 19:27:04] [INFO] 找到了元素 [By.xpath: //*[@id="um"]/p[1]/a[5]]
+[2018-05-09 19:27:04] [INFO] 找到元素 xpath: //*[@id="um"]/p[1]/a[5]
+[2018-05-09 19:27:05] [INFO] 点击成功

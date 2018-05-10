@@ -1,0 +1,26 @@
+[2018-05-08 17:57:40] [INFO] 启动谷歌驱动
+[2018-05-08 17:57:44] [INFO] 打开网址http://127.0.0.1/upload
+[2018-05-08 17:57:44] [INFO] 找到元素 id: ls_username
+[2018-05-08 17:57:44] [INFO] 成功清空
+[2018-05-08 17:57:44] [INFO] 找到元素 id: ls_username
+[2018-05-08 17:57:44] [INFO] 输入成功
+[2018-05-08 17:57:44] [INFO] 找到元素 id: ls_password
+[2018-05-08 17:57:44] [INFO] 成功清空
+[2018-05-08 17:57:44] [INFO] 找到元素 id: ls_password
+[2018-05-08 17:57:44] [INFO] 输入成功
+[2018-05-08 17:57:44] [INFO] 找到元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 17:57:44] [INFO] 点击成功
+[2018-05-08 17:57:44] [INFO] 找到元素 id: scbar_txt
+[2018-05-08 17:57:44] [INFO] 成功清空
+[2018-05-08 17:57:44] [INFO] 找到元素 id: scbar_txt
+[2018-05-08 17:57:44] [INFO] 输入成功
+[2018-05-08 17:57:44] [INFO] 找到元素 id: scbar_btn
+[2018-05-08 17:57:44] [INFO] 点击成功
+[2018-05-08 17:57:44] [INFO] 跳转成功CDwindow-59D70A1A90FA0500BA71FE56AA73A5A7
+[2018-05-08 17:57:47] [INFO] 找到元素 link text: hello，你好
+[2018-05-08 17:57:48] [INFO] 点击成功
+[2018-05-08 17:57:48] [INFO] 跳转成功CDwindow-954F04408D5CE84D53C0810394AAE307
+[2018-05-08 17:57:48] [INFO] 跳转成功CDwindow-59D70A1A90FA0500BA71FE56AA73A5A7
+[2018-05-08 17:57:48] [INFO] 跳转成功CDwindow-72D44B018B87368284C16C661126CAA1
+[2018-05-08 17:57:51] [ERROR] 预期标题：hello，你好实际标题为：hello，你好 - 专有分区 - Discuz! Board - Powered by Discuz!
+[2018-05-08 17:57:51] [INFO] 找到了对应的标题;hello，你好 - 专有分区 - Discuz! Board - Powered by Discuz!

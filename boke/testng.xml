@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <suite name="boke">
+    <test name="test">
+        <classes>
+            <class name="testCase.Search"/>
+            <class name="testCase.AddBlock"/>
+        </classes>
+    </test>
+</suite>
