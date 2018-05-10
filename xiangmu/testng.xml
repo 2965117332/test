@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testcase">
+    <parameter name="Browser" value="chrome" />
+    <test name="product">
+        <classes>
+            <!--
+            <class name="AbsTest" />
+            <class name="TestTest" />-->
+            <class name="corss"/>
+        </classes>
+    </test>
+</suite>
