@@ -140,4 +140,12 @@ public class SeleniumUtil {
         Actions action=new Actions(driver);
         action.clickAndHold(findelement(by)).perform();
     }
+
+    public void quit (){
+       driver.quit();
+
+    }
 }
+
+
+

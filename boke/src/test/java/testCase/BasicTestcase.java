@@ -1,6 +1,7 @@
 package testCase;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
@@ -33,8 +34,9 @@ public class BasicTestcase {
 
 
     @AfterClass
-    public void endTest() {
+    public void endTest() throws InterruptedException, IOException {
       Login_PageHelper.exit(seleniumUtil);
-        //driver.quit();
+        Thread.sleep(3);
+        seleniumUtil.quit();
     }
 }
