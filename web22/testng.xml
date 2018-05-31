@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testcase">
+<test name="pp">
+   <classes>
+   <class name="tt.NewTest" />
+   </classes>
+ </test>
+</suite>
